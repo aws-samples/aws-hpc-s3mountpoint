@@ -1,11 +1,12 @@
-## My Project
+# Improve the speed and cost of HPC deployment with Mountpoint for Amazon S3
 
-TODO: Fill this README out!
+This repoistory contains example that demonstrate how to build HPC systems with AWS ParallelCluster, Mountpoint for Amazon S3 and other AWS products.
 
-Be sure to:
+## Getting Started
 
-* Change the title in this README
-* Edit your repository description on GitHub
+* If you are new to AWS ParallelCluster, you can watch a [5-minute explainer video](https://youtu.be/gmw7A3kOh60).
+* If you are new to Mountpoint for Amazon S3, you can take a look at [Mountpoint features and FAQs](https://aws.amazon.com/s3/features/mountpoint/)
+* If you are new to HPC Recipes for AWS, you can take a look at [aws-hpc-recipes](https://github.com/aws-samples/aws-hpc-recipes)
 
 ## Security
 
