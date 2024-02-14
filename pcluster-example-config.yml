@@ -56,7 +56,8 @@ Scheduling:
                 - <<DEMO-BUCKET-NAME>>
                 - <<HOST-FILESYSTEM-PATH>>
                 - '--allow-delete --allow-root'
-            - Script: https://aws-hpc-blog.s3.amazonaws.com/s3mountpoint/s3-mp-install-ior.sh
+            - Script: https://github.com/aws-samples/aws-hpc-s3mountpoint/raw/main/s3-mp-install-ior.sh
+
       Iam:
         AdditionalIamPolicies:
           - Policy: arn:aws:iam::aws:policy/AmazonSSMManagedInstanceCore
