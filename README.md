@@ -2,6 +2,8 @@
 
 This repoistory contains example that demonstrate how to build HPC systems with AWS ParallelCluster, Mountpoint for Amazon S3 and other AWS products.
 
+Blog Post: [Improve the speed and cost of HPC deployment with Mountpoint for Amazon S3](https://aws.amazon.com/blogs/hpc/improve-the-speed-and-cost-of-hpc-deployment-with-mountpoint-for-amazon-s3/)
+
 ## Getting Started
 
 * If you are new to AWS ParallelCluster, you can watch a [5-minute explainer video](https://youtu.be/gmw7A3kOh60).
